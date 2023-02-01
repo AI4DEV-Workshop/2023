@@ -19,7 +19,6 @@ In cooperation with <br />
 </a>
 </center>
 
-----
 <br />
 
 Software is an increasingly important component in the pursuit of scientific discovery. Both its development and use are essential activities for many scientific teams. Computational science teams have diversified over time to include contributions from domain scientists who provide expertise in scientific and engineering disciplines, applied mathematicians and computer scientists who provide optimal algorithms and data structures, and software and data engineers who provide methodologies and tools adapted and adopted from other software domains. These diverse contributions have enabled tremendous advances in the pursuit of scientific discovery, even as models, computer architectures, and software environments have become more complicated.
@@ -90,7 +89,6 @@ TBD
 - Room: XXX
 
 ## <a class="anchor" name="program">Program</a>
-<br />
 
 TBD
 
