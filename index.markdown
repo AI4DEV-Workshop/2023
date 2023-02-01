@@ -11,7 +11,7 @@ layout: home
 <center><h4> November XX, 2023 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> Colorado Convention Center </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
-<center><h5> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h4> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h4></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
