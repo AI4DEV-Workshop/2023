@@ -27,8 +27,7 @@ With this increasing diversity, the complexity of software development increases
 
 The goal of the AI Assisted Software Development for HPC (AI4DEV) workshop is to create a forum composed of researchers, scientists, application developers, computing center staff and management and computing industry staff to discuss ideas on how artificial intelligence can help in the whole development process. The workshop will feature contributed papers and invited talks in the area.
 
-----
-### <a class="anchor" name="topics">Workshop Topics</a>
+## <a class="anchor" name="topics">Workshop Topics</a>
 
 Topics of interest include, but are not limited to:
 
