@@ -20,6 +20,7 @@ In cooperation with <br />
 </center>
 
 ----
+<br />
 
 Software is an increasingly important component in the pursuit of scientific discovery. Both its development and use are essential activities for many scientific teams. Computational science teams have diversified over time to include contributions from domain scientists who provide expertise in scientific and engineering disciplines, applied mathematicians and computer scientists who provide optimal algorithms and data structures, and software and data engineers who provide methodologies and tools adapted and adopted from other software domains. These diverse contributions have enabled tremendous advances in the pursuit of scientific discovery, even as models, computer architectures, and software environments have become more complicated.
 
@@ -42,8 +43,7 @@ Topics of interest include, but are not limited to:
 * AI-assisted software building and deployment
 * Mining best programming practices using ML
 
-----
-### <a class="anchor" name="submissions"> Submissions and Format </a>
+## <a class="anchor" name="submissions"> Submissions and Format </a>
 
 Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
@@ -51,17 +51,15 @@ Submitted papers will be peer-reviewed by the Program Committee and accepted pap
 
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
-#### SC Reproducibility Initiative
+### SC Reproducibility Initiative
 
 We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc23.supercomputing.org/program/papers/reproducibility-initiative/]([https://sc22.supercomputing.org/submit/reproducibility-initiative/](https://sc23.supercomputing.org/program/papers/reproducibility-initiative/)).
 
----
-###  <a class="anchor" name="proceedings"> Proceedings </a>
+##  <a class="anchor" name="proceedings"> Proceedings </a>
 
 The proceedings will be archived in IEEE Xplore.
 
----
-### <a class="anchor" name="dates"> Important Dates </a>
+## <a class="anchor" name="dates"> Important Dates </a>
 
 * Paper submissions due: August XX, 2023
 * Notification of acceptance: September XX, 2023
@@ -70,38 +68,32 @@ The proceedings will be archived in IEEE Xplore.
 
 All time zones are AOE.
 
----
-### <a class="anchor" name="date">Workshop Date</a>
+## <a class="anchor" name="date">Workshop Date</a>
 
 - Half-day Workshop
 - November XX, 2023, 8:30am - 12pm CST
 
----
-### <a class="anchor" name="org">Organizers</a>
+## <a class="anchor" name="org">Organizers</a>
 
 [Giorgis Georgakoudis](https://people.llnl.gov/georgakoudis1), LLNL <br />
 [Ignacio Laguna](http://lagunaresearch.org/), LLNL <br />
 [Konstantinos Parasyris](https://people.llnl.gov/parasyris1), LLNL
 
 
----
-### <a class="anchor" name="pc">Program Committee</a>
+## <a class="anchor" name="pc">Program Committee</a>
 
 TBD
 
----
-### <a class="anchor" name="venue">Venue</a>
+## <a class="anchor" name="venue">Venue</a>
 
 - Colorado Convention Center, Denver, CO, USA
 - Room: XXX
 
----
-### <a class="anchor" name="program">Program</a>
+## <a class="anchor" name="program">Program</a>
 <br />
 
 TBD
 
----
-###  <a class="anchor" name="contact">Contact Information</a>
+##  <a class="anchor" name="contact">Contact Information</a>
 Please address workshop questions to Giorgis Georgakoudis (georgakoudis1@llnl.gov), Ignacio Laguna (ilaguna@llnl.gov), and/or Konstantinos Parasyris (parasyris1@llnl.gov).
 
