@@ -7,7 +7,7 @@ layout: home
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>AI4DEV 2023: AI Assisted Software Development for HPC</h2></center>
+<center><h2>AI4DEV 2023: First Workshop on AI Assisted Software Development for HPC</h2></center>
 <center><h4> November XX, 2023 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> Colorado Convention Center </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
