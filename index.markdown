@@ -60,10 +60,10 @@ The proceedings will be archived in IEEE Xplore.
 
 ## <a class="anchor" name="dates"> Important Dates </a>
 
-* Paper submissions due: August XX, 2023
-* Notification of acceptance: September XX, 2023
-* E-copyright registration completed by authors: September XX, 2023
-* Camera-ready papers due: September XX, 2023
+* Paper submissions due: August 7th, 2023
+* Notification of acceptance: September 4th, 2023
+* E-copyright registration completed by authors: September 13th, 2023
+* Camera-ready papers due: October, 2023
 
 All time zones are AOE.
 
@@ -74,9 +74,9 @@ All time zones are AOE.
 
 ## <a class="anchor" name="org">Organizers</a>
 
-[Giorgis Georgakoudis](https://people.llnl.gov/georgakoudis1), LLNL <br />
-[Ignacio Laguna](http://lagunaresearch.org/), LLNL <br />
-[Konstantinos Parasyris](https://people.llnl.gov/parasyris1), LLNL
+[Giorgis Georgakoudis](https://people.llnl.gov/georgakoudis1), Lawrence Livermore National Laboratory <br />
+[Ignacio Laguna](http://lagunaresearch.org/), Lawrence Livermore National Laboratory <br />
+[Konstantinos Parasyris](https://people.llnl.gov/parasyris1), Lawrence Livermore National Laboratory
 
 
 ## <a class="anchor" name="pc">Program Committee</a>
