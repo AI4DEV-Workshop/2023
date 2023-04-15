@@ -21,11 +21,12 @@ In cooperation with <br />
 
 <br />
 
-Software is an increasingly important component in the pursuit of scientific discovery. Both its development and use are essential activities for many scientific teams. Computational science teams have diversified over time to include contributions from domain scientists who provide expertise in scientific and engineering disciplines, applied mathematicians and computer scientists who provide optimal algorithms and data structures, and software and data engineers who provide methodologies and tools adapted and adopted from other software domains. These diverse contributions have enabled tremendous advances in the pursuit of scientific discovery, even as models, computer architectures, and software environments have become more complicated.
+While scientific software is an important component in the pursuit of scientific discovery, software development in HPC continues to be challenging. The software development process today combines contributions from domain scientists, applied mathematicians, computer scientists, and involves complex programming models. As a result of these diverse contributions software environments have become significantly complicated.
 
-With this increasing diversity, the complexity of software development increases and thus it requires a steep learning curve for new developers. Resulting into a slower pace of software development innovations. With the continuous integration of scientific applications in complex, deep software stacks (workflows, compilers, runtime libraries, heterogeneous systems) novel techniques and practical tools for assisting the software development in HPC are invaluable. 
+With this increasing diversity, the complexity of software development increases and it requires a steep learning curve for new developers, resulting in a slower pace of software development. With the continuous integration of scientific applications in complex, deep software stacks (workflows, compilers, runtime libraries, heterogeneous systems) novel techniques and practical tools for assisting the software development in HPC are invaluable. Recent advances in generative AI and large language models, such as GitHub’s Copilot and OpenAI’s GPT, demonstrate interesting potential for developer assistance and automated code synthesis.
 
-The goal of the AI Assisted Software Development for HPC (AI4DEV) workshop is to create a forum composed of researchers, scientists, application developers, computing center staff and management and computing industry staff to discuss ideas on how artificial intelligence can help in the whole development process. The workshop will feature contributed papers and invited talks in the area.
+The goal of the AI Assisted Software Development for HPC (AI4DEV) workshop is to create a forum composed of researchers, scientists, application developers, computing center staff, and industry staff to discuss ideas on how artificial intelligence can help in the whole development process. The workshop will feature contributed papers and invited talks in the area.
+
 
 ## <a class="anchor" name="topics">Workshop Topics</a>
 
@@ -37,7 +38,7 @@ Topics of interest include, but are not limited to:
 * ML-assisted compiler optimizations and code generation
 * Auto-tuning and performance portability using ML/AI
 * Code synthesis and generation using automated ML techniques
-* AI-assisted code recommendations for code maintainability, performance and correctness
+* AI-assisted code recommendations for code maintainability, performance, and correctness
 * IDE extensions using ML for improved programming productivity
 * AI-assisted software building and deployment
 * Mining best programming practices using ML
