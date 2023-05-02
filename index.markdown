@@ -82,7 +82,20 @@ All time zones are AOE.
 
 ## <a class="anchor" name="pc">Program Committee</a>
 
-TBD
+* Alfredo Goldman, University of São Paulo
+* Jan Hückelheim, Argonne National Laboratory
+* Nikhil Jain, NVIDIA
+* Tarindu Jayatilaka, Purdue University
+* Dong Li, University of California, Merced
+* Chunhua Liao, Lawrence Livermore National Laboratory
+* Harshitha Menon, Lawrence Livermore National Laboratory
+* Dejan Milojici, (Hewlett Packard Labs
+* William S. Moses, Massachusetts Institute of Technology
+* Boyanna Norris, University of Oregon
+* EunJung (EJ) Park, Qualcomm Inc.
+* Pavlos Petoumenos, University of Manchester
+* Kento Sato, RIKEN
+* Keren Zhou, Rice University
 
 ## <a class="anchor" name="venue">Venue</a>
 
