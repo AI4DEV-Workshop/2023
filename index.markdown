@@ -95,7 +95,7 @@ All time zones are AOE.
 * EunJung (EJ) Park, Qualcomm Inc.
 * Pavlos Petoumenos, University of Manchester
 * Kento Sato, RIKEN
-* Keren Zhou, Rice University
+* Keren Zhou, OpenAI 
 
 ## <a class="anchor" name="venue">Venue</a>
 
