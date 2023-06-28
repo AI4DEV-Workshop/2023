@@ -8,7 +8,7 @@ layout: home
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>AI4DEV 2023: First Workshop on AI Assisted Software Development for HPC</h2></center>
-<center><h4> November XX, 2023 (half day, 8:30am - 12pm CST) </h4></center>
+<center><h4> November 13th, 2023 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> Colorado Convention Center </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h4> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h4></center>
@@ -71,7 +71,7 @@ All time zones are AOE.
 ## <a class="anchor" name="date">Workshop Date</a>
 
 - Half-day Workshop
-- November XX, 2023, 8:30am - 12pm CST
+- November 13th, 2023, 8:30am - 12pm CST
 
 ## <a class="anchor" name="org">Organizers</a>
 
