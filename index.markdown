@@ -89,7 +89,7 @@ All time zones are AOE.
 * Dong Li, University of California, Merced
 * Chunhua Liao, Lawrence Livermore National Laboratory
 * Harshitha Menon, Lawrence Livermore National Laboratory
-* Dejan Milojici, (Hewlett Packard Labs
+* Dejan Milojici, Hewlett Packard Labs
 * William S. Moses, Massachusetts Institute of Technology
 * Boyanna Norris, University of Oregon
 * EunJung (EJ) Park, Qualcomm Inc.
