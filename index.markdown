@@ -45,7 +45,7 @@ Topics of interest include, but are not limited to:
 
 ## <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit **full papers** or **short papers** in English structured as technical or experience papers. Full papers should have at least **6 pages** but should not exceed **8 pages** of content, including everything except references. Short papers should have at least **3 pages** but should not exceed **4 pages** including everything (references, figures, etc.). Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Authors are invited to submit **full papers** or **short papers** in English structured as technical or experience papers. Full papers should have at least **6 pages** but should not exceed **8 pages** of content, including everything except references. Short papers should have at least **3 pages** but should not exceed **4 pages** including everything (references, figures, etc.). Submissions must use the [ACM format](https://www.acm.org/publications/proceedings-template). Latex users should use the latest template version 1.90 (last update April 4, 2023) with the “sigconf” option.
 
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
 
@@ -64,7 +64,7 @@ The proceedings will be archived in IEEE Xplore.
 * Paper submissions due: August 7th, 2023
 * Notification of acceptance: September 4th, 2023
 * E-copyright registration completed by authors: September 13th, 2023
-* Camera-ready papers due: October, 2023
+* Camera-ready papers due: September 29, 2023
 
 All time zones are AOE.
 
@@ -82,14 +82,12 @@ All time zones are AOE.
 
 ## <a class="anchor" name="pc">Program Committee</a>
 
-* Alfredo Goldman, University of São Paulo
 * Jan Hückelheim, Argonne National Laboratory
 * Nikhil Jain, NVIDIA
 * Tarindu Jayatilaka, Purdue University
 * Dong Li, University of California, Merced
 * Chunhua Liao, Lawrence Livermore National Laboratory
 * Harshitha Menon, Lawrence Livermore National Laboratory
-* Dejan Milojici, Hewlett Packard Labs
 * William S. Moses, Massachusetts Institute of Technology
 * Boyanna Norris, University of Oregon
 * EunJung (EJ) Park, Qualcomm Inc.
