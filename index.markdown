@@ -61,7 +61,7 @@ The proceedings will be archived in IEEE Xplore.
 
 ## <a class="anchor" name="dates"> Important Dates </a>
 
-* Paper submissions due: August 7th, 2023
+* Paper submissions due: ~~August 7th, 2023~~ **Extended:** August 13, 2023
 * Notification of acceptance: September 4th, 2023
 * E-copyright registration completed by authors: September 13th, 2023
 * Camera-ready papers due: September 29, 2023
