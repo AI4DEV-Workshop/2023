@@ -102,12 +102,13 @@ All time zones are AOE.
 ## <a class="anchor" name="program">Program</a>
 <br />
 
+#### Opening and Invited Talk (Chair: XX)
 <table>
-<tr><td width="15">  </td> <td>9:00am - 9:05am:  Opening remarks </td> </tr>
-<tr><td width="15">  </td> <td>9:05am - 9:50am:  Invived Talk 1 </td> </tr>
+<tr><td>9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
+<tr><td>9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
 </table>
 
-##### Papers Session (Chair: XX)
+#### Papers Session (Chair: XX)
 <table>
 <tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
 <tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
@@ -118,7 +119,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10:30am - 11:00am:  Break </td> </tr>
 </table>
 
-##### Session 2 (Chair: XX)
+##### Invited Talk and Panel (Chair: XX)
 <table>
 <tr><td width="15">  </td> <td>11:00am - 11:45am:  Invived Talk 2 </td> </tr>
 <tr><td width="15">  </td> <td>11:45am - 12:30am:  Panel </td> </tr>
