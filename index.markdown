@@ -103,14 +103,14 @@ All time zones are AOE.
 
 #### Opening and Invited Talk (Chair: XX)
 <table>
-<tr><td class="block" style="width:50%">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
-<tr><td width="15">9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
+<tr><td class="block" style="width:30%">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
+<tr><td class="block" style="width:30%">9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
 </table>
 
 #### Papers Session (Chair: XX)
 <table>
-<tr><td width="15">9:50am - 10:10am:</td> <td>  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
-<tr><td width="15"> 9:50am - 10:10am:</td> <td>  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td width="30">9:50am - 10:10am:</td> <td>  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td width="30"> 9:50am - 10:10am:</td> <td>  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
 </table>
 
 #### Break
