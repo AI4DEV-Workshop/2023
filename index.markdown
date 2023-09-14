@@ -100,11 +100,10 @@ All time zones are AOE.
 - Room: 506
 
 ## <a class="anchor" name="program">Program</a>
-<br />
 
 #### Opening and Invited Talk (Chair: XX)
 <table>
-<tr><td width="15">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
+<tr><td class="block" style="width:50%">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
 <tr><td width="15">9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
 </table>
 
