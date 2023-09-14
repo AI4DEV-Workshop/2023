@@ -97,11 +97,32 @@ All time zones are AOE.
 ## <a class="anchor" name="venue">Venue</a>
 
 - Colorado Convention Center, Denver, CO, USA
-- Room: XXX
+- Room: 506
 
 ## <a class="anchor" name="program">Program</a>
+<br />
 
-TBD
+<table>
+<tr><td width="15">  </td> <td>9:00am - 9:05am:  Opening remarks </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 9:50am:  Invived Talk 1 </td> </tr>
+</table>
+
+##### Papers Session (Chair: XX)
+<table>
+<tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+</table>
+
+##### Break
+<table>
+<tr><td width="15">  </td> <td> 10:30am - 11:00am:  Break </td> </tr>
+</table>
+
+##### Session 2 (Chair: XX)
+<table>
+<tr><td width="15">  </td> <td>11:00am - 11:45am:  Invived Talk 2 </td> </tr>
+<tr><td width="15">  </td> <td>11:45am - 12:30am:  Panel </td> </tr>
+</table>
 
 ##  <a class="anchor" name="contact">Contact Information</a>
 Please address workshop questions to Giorgis Georgakoudis (georgakoudis1@llnl.gov), Ignacio Laguna (ilaguna@llnl.gov), and/or Konstantinos Parasyris (parasyris1@llnl.gov).
