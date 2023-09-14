@@ -104,25 +104,25 @@ All time zones are AOE.
 
 #### Opening and Invited Talk (Chair: XX)
 <table>
-<tr><td>9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
-<tr><td>9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
+<tr><td width="15">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
+<tr><td width="15">9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
 </table>
 
 #### Papers Session (Chair: XX)
 <table>
-<tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
-<tr><td width="15">  </td> <td>9:50am - 10:10am:  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td width="15">9:50am - 10:10am:</td> <td>  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td width="15"> 9:50am - 10:10am:</td> <td>  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
 </table>
 
-##### Break
+#### Break
 <table>
-<tr><td width="15">  </td> <td> 10:30am - 11:00am:  Break </td> </tr>
+<tr><td width="15"> 10:30am - 11:00am:</td> <td> Break </td> </tr>
 </table>
 
-##### Invited Talk and Panel (Chair: XX)
+#### Invited Talk and Panel (Chair: XX)
 <table>
-<tr><td width="15">  </td> <td>11:00am - 11:45am:  Invived Talk 2 </td> </tr>
-<tr><td width="15">  </td> <td>11:45am - 12:30am:  Panel </td> </tr>
+<tr><td width="15">11:00am - 11:45am:</td> <td> Invived Talk 2 </td> </tr>
+<tr><td width="15">11:45am - 12:30am:</td> <td> Panel on XX. Panelists: X, Y, Z</td> </tr>
 </table>
 
 ##  <a class="anchor" name="contact">Contact Information</a>
