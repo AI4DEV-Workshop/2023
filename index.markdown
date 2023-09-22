@@ -101,16 +101,16 @@ All time zones are AOE.
 
 ## <a class="anchor" name="program">Program</a>
 
-#### Opening and Invited Talk (Chair: XX)
+#### Opening and Invited Talk (Chair: Ignacio Laguna)
 <table>
-<tr><td class="block" style="width:25%">9:00am - 9:05am:</td> <td>  Opening remarks </td> </tr>
-<tr><td class="block" style="width:25%">9:05am - 9:50am:</td> <td>  Invived Talk 1 </td> </tr>
+<tr><td class="block" style="width:25%">9:00am - 9:05am:</td> <td>  <b> Opening remarks </td> </tr>
+<tr><td class="block" style="width:25%">9:05am - 9:50am:</td> <td>  <b>"Invited Talk"</b>,Torsten Hoefler </td> </tr>
 </table>
 
-#### Papers Session (Chair: XX)
+#### Papers Session (Chair: Konstantinos Parasyris)
 <table>
-<tr><td class="block" style="width:25%">9:50am - 10:10am:</td> <td>  Paper 1: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
-<tr><td class="block" style="width:25%"> 9:50am - 10:10am:</td> <td>  Paper 2: <b>"Title"</b>, Author 1, Aurhor 2 </td> </tr>
+<tr><td class="block" style="width:25%">9:50am - 10:10am:</td> <td>  Paper 1: <b>MPI-RICAL: Data-Driven MPI Distributed Parallelism Assistance with Transformers</b>, Nadav Schneider, Tal Kadosh, Timothy Mattson, Yuval Pinter, Gal Oren </td> </tr>
+<tr><td class="block" style="width:25%"> 10:10am - 10:30am:</td> <td>  Paper 2: <b>VSCuda: LLM based CUDA extension for Visual Studio Code</b>, Brian Chen, Nafis Mustakin, Alvin Hoang, Sakib Fuad, Daniel Wong</td> </tr>
 </table>
 
 #### Break
@@ -118,10 +118,10 @@ All time zones are AOE.
 <tr><td class="block" style="width:25%"> 10:30am - 11:00am:</td> <td> Break </td> </tr>
 </table>
 
-#### Invited Talk and Panel (Chair: XX)
+#### Invited Talk and Panel (Chair: Giorgis Georgakoudis)
 <table>
-<tr><td class="block" style="width:25%">11:00am - 11:45am:</td> <td> Invived Talk 2 </td> </tr>
-<tr><td class="block" style="width:25%">11:45am - 12:30am:</td> <td> Panel on XX. Panelists: X, Y, Z</td> </tr>
+<tr><td class="block" style="width:25%">11:00am - 11:45am:</td> <td>  <b>"Invited Talk"</b>, William S. Moses </td> </tr>
+<tr><td class="block" style="width:25%">11:45am - 12:30am:</td> <td> <b>"Invited Talk"</b>, TBD </td> </tr>
 </table>
 
 ##  <a class="anchor" name="contact">Contact Information</a>
