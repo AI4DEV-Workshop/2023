@@ -109,8 +109,8 @@ All time zones are AOE.
 
 #### Papers Session (Chair: Konstantinos Parasyris)
 <table>
-<tr><td class="block" style="width:25%">9:50am - 10:10am:</td> <td>  Paper 1: <b>MPI-RICAL: Data-Driven MPI Distributed Parallelism Assistance with Transformers</b>, Nadav Schneider, Tal Kadosh, Timothy Mattson, Yuval Pinter, Gal Oren </td> </tr>
-<tr><td class="block" style="width:25%"> 10:10am - 10:30am:</td> <td>  Paper 2: <b>VSCuda: LLM based CUDA extension for Visual Studio Code</b>, Brian Chen, Nafis Mustakin, Alvin Hoang, Sakib Fuad, Daniel Wong</td> </tr>
+<tr><td class="block" style="width:25%">9:50am - 10:10am:</td> <td>  Paper 1: <b>MPI-RICAL: Data-Driven MPI Distributed Parallelism Assistance with Transformers.</b> Nadav Schneider, Tal Kadosh, Timothy Mattson, Yuval Pinter, Gal Oren </td> </tr>
+<tr><td class="block" style="width:25%"> 10:10am - 10:30am:</td> <td>  Paper 2: <b>VSCuda: LLM based CUDA extension for Visual Studio Code.</b> Brian Chen, Nafis Mustakin, Alvin Hoang, Sakib Fuad, Daniel Wong</td> </tr>
 </table>
 
 #### Break
@@ -118,7 +118,7 @@ All time zones are AOE.
 <tr><td class="block" style="width:25%"> 10:30am - 11:00am:</td> <td> Break </td> </tr>
 </table>
 
-#### Invited Talk and Panel (Chair: Giorgis Georgakoudis)
+#### Invited Talks (Chair: Giorgis Georgakoudis)
 <table>
 <tr><td class="block" style="width:25%">11:00am - 11:45am:</td> <td>  <b>"Invited Talk"</b>, William S. Moses </td> </tr>
 <tr><td class="block" style="width:25%">11:45am - 12:30am:</td> <td> <b>"Invited Talk"</b>, TBD </td> </tr>
