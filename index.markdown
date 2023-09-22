@@ -103,7 +103,7 @@ All time zones are AOE.
 
 #### Opening and Invited Talk (Chair: Ignacio Laguna)
 <table>
-<tr><td class="block" style="width:25%">9:00am - 9:05am:</td> <td>  <b> Opening remarks </td> </tr>
+<tr><td class="block" style="width:25%">9:00am - 9:05am:</td> <td>  <b> Opening remarks</b>  </td> </tr>
 <tr><td class="block" style="width:25%">9:05am - 9:50am:</td> <td>  <b>"Invited Talk"</b>,Torsten Hoefler </td> </tr>
 </table>
 
