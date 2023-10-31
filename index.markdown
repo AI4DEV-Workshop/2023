@@ -104,7 +104,7 @@ All time zones are AOE.
 #### Opening and Invited Talk (Chair: Ignacio Laguna)
 <table>
 <tr><td class="block" style="width:25%">9:00am - 9:10am:</td> <td>  <b> Opening remarks</b>  </td> </tr>
-<tr><td class="block" style="width:25%">9:10am - 10:00am:</td> <td>  <b> AI-driven Performance Metaprogramming</b>, Torsten Hoefler </td> </tr>
+<tr><td class="block" style="width:25%">9:10am - 10:00am:</td> <td>  Invited Talk: <b> AI-driven Performance Metaprogramming</b>, Torsten Hoefler </td> </tr>
 </table>
 
 #### Break
@@ -120,8 +120,8 @@ All time zones are AOE.
 
 #### Invited Talks (Chair: Giorgis Georgakoudis)
 <table>
-<tr><td class="block" style="width:25%">11:10am - 11:50am:</td> <td>  <b>LLVM in the age of LLMs: Machine Learning for IR and optimization and more</b>, William S. Moses </td> </tr>
-<tr><td class="block" style="width:25%">11:50am - 12:30am:</td> <td> <b> Unlocking the Potential of Large Language Models for High-Performance Computing Code</b>, Gal Oren  </td> </tr>
+<tr><td class="block" style="width:25%">11:10am - 11:50am:</td> <td> Invited Talk: <b>LLVM in the age of LLMs: Machine Learning for IR and optimization and more</b>, William S. Moses </td> </tr>
+<tr><td class="block" style="width:25%">11:50am - 12:30am:</td> <td> Invited Talk: <b>Unlocking the Potential of Large Language Models for High-Performance Computing Code</b>, Gal Oren  </td> </tr>
 </table>
 
 ##  <a class="anchor" name="contact">Contact Information</a>
