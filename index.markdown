@@ -97,7 +97,7 @@ All time zones are AOE.
 ## <a class="anchor" name="venue">Venue</a>
 
 - Colorado Convention Center, Denver, CO, USA
-- Room: 506
+- Room: 601
 
 ## <a class="anchor" name="program">Program</a>
 
